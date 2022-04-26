@@ -1,0 +1,46 @@
+.title {
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    justify-content: center;
+    color: green;
+    border: 5px pink dotted;background-color:white;
+
+}
+
+
+
+body {
+    background-color: #ff9966;
+}
+
+.color {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    border: solid green 6px;
+    padding: 5px;
+    margin: 10px;
+    color: brown;background-color:lightgreen;
+}
+
+.cats {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    border: dotted green 6px;
+    margin: 10px;
+    color: brown;background-color:lightgreen;
+}
+
+.cafe {
+    display: flex;
+    justify-content: center;
+    border: dashed green 6px;
+    margin: 10px;
+    color: brown;background-color:lightgreen;
+}
+
+img {
+    width: 150px; }
+.img{display:flex;justify-content:center;}
+    
